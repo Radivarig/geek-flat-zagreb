@@ -1,2 +1,1 @@
-##### repo not related to code
-issue tracker for general flat stuff
+##### issue tracker for general flat stuff
